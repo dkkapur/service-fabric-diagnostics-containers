@@ -1,23 +1,3 @@
----
-title: Azure Service Fabric Containers Monitoring and Diagnostics  | Microsoft Docs
-description: Learn how to monitor and diagnose containers orchestrated on Microsoft Azure Service Fabric with OMS's Containers solution.
-services: service-fabric
-documentationcenter: .net
-author: dkkapur
-manager: timlt
-editor: ''
-
-ms.assetid:
-ms.service: service-fabric
-ms.devlang: dotnet
-ms.topic: article
-ms.tgt_pltfrm: NA
-ms.workload: NA
-ms.date: 05/10/2017
-ms.author: dekapur
-
----
-
 # Monitoring Windows Server containers with OMS
 
 ## OMS Containers Solution
